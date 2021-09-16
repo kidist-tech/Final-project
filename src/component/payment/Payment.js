@@ -51,7 +51,7 @@ function Payment() {
             <h3>Name</h3>
           </div>
           <div className="payment__address">
-            <p>John</p>
+            <p>kidist</p>
           </div>
         </div>
         <div className="payment__section">
@@ -59,8 +59,8 @@ function Payment() {
             <h3>Delivery Address</h3>
           </div>
           <div className="payment__address">
-            <p>12345 Sahara</p>
-            <p>Las Vegas, NV</p>
+            <p>180 Gardner</p>
+            <p>Boston, MA</p>
           </div>
         </div>
         <div className="payment__section">
@@ -68,8 +68,8 @@ function Payment() {
             <h3>Billing Address</h3>
           </div>
           <div className="payment__address">
-            <p>12345 Sahara</p>
-            <p>Las Vegas, NV</p>
+            <p>180 Gardner st</p>
+            <p>Boston, MA</p>
           </div>
         </div>
         <div className="payment__section">
